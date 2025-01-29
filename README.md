@@ -11,6 +11,9 @@ Set the filters to include all work items you want to export. For example:
 Work Item Type = [Any]
 State = [Any]
 
+![image](https://github.com/user-attachments/assets/9419d1f6-e7c5-46c1-bf36-3752b8c309f8)
+
+
 3. Run the Query:
 Click on the Run button to execute the query.
 
